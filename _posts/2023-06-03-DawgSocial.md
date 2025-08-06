@@ -1,7 +1,7 @@
 ---
 title: "Dawg Social"
 date: 2023-06-03 00:00:00 +0800
-tags: [Projects, Web Development, Team Leadership]
+tags: [Projects, Web Development, Team Leadership, Django]
 by: Zeke Pulido
 ---
 
